@@ -4,7 +4,11 @@ A simple, modern and working way to create a script using TypeScript that use `i
 
 ## How it works?
 
-Please use the following configuration in your project
+The following files are what you should look into:
+
+- [`package.json`](./package.json) - The package configuration file including the dependencies you need.
+- [`tsconfig.json`](./tsconfig.json) - The TypeScript configuration file.
+- [`scripts/sample.ts`](./scripts/sample.ts) - The sample script.
 
 ### tsconfig.json
 
