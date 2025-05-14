@@ -32,6 +32,14 @@ Use `tsx` to configure your script in the [`package.json`](./package.json) file.
 }
 ```
 
+## Prerequisites
+
+This project requires a modern Node.js version (>=23). Please ensure you have it installed. You can use a Node Version Manager (NVM) and the provided `.nvmrc` file to switch to a compatible version:
+
+```bash
+nvm use
+```
+
 ## How to run?
 
 Run the script with your favorite package manager.
